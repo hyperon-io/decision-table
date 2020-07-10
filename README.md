@@ -30,7 +30,7 @@ How to for this interface [Programming with Hyperon tutorial](https://www.hypero
 Final and quickest method do call decision table is by using buit-in tester in Hyperon Studio. 
 It's best option for testing newly created decision tables. Hyperon will ask you to provide all business data needed to make decision. 
 
-More in Hyperon[User Guide](https://www.hyperon.io/docs/guide/simulations#tester)
+More in Hyperon [User Guide](https://www.hyperon.io/docs/guide/simulations#tester)
 
 
 Example code is coming soon. 
